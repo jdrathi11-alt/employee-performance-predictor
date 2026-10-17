@@ -1,0 +1,23 @@
+==================================================
+       HR INSIGHTS REPORT
+==================================================
+Total Employees Analysed : 1000
+Predicted High Performers: 5 (0.5%)
+Predicted Low Performers : 995  (99.5%)
+
+--- Top 5 High Performers (by probability) ---
+employee_id  department  high_performer_probability     prediction
+    EMP0967   Marketing                       0.565 High Performer
+    EMP0237   Marketing                       0.552 High Performer
+    EMP0359 Engineering                       0.532 High Performer
+    EMP0261     Finance                       0.516 High Performer
+    EMP0835  Operations                       0.514 High Performer
+
+--- Top 5 At-Risk Employees (lowest probability) ---
+employee_id department  high_performer_probability    prediction
+    EMP0015    Finance                       0.001 Low Performer
+    EMP0040  Marketing                       0.001 Low Performer
+    EMP0075    Finance                       0.001 Low Performer
+    EMP0119      Sales                       0.001 Low Performer
+    EMP0199         HR                       0.001 Low Performer
+==================================================

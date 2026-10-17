@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+models/best_model.pkl
+models/scaler.pkl
+models/feature_names.pkl
+data/*.csv
+outputs/predictions.csv
+outputs/hr_insights_report.txt
+outputs/plots/*.png
