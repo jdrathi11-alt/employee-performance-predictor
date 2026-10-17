@@ -176,5 +176,7 @@ MIT — free to use, modify, and share.
 
 ---
 
-*Repository: [github.com/<your-username>/employee-performance-predictor](https://github.com)*  
-*Built for portfolio & internship applications — 2025.*
+## Author
+**Jayesh Rathi** — 3rd Year IT Student, Government College of Engineering, Amravati  
+[LinkedIn](https://www.linkedin.com/in/jayesh-rathi-5ab8973b6) | [Email](mailto:jayeshrathinew@gmail.com)
+
